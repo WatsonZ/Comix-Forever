@@ -7,10 +7,11 @@
 
 ## 安装
 
-1. 点击 **Code → Download ZIP** 下载并解压。
-2. 把解压出来的文件夹**改名为 `Comix`**（文件夹名必须和 `Comix.toc` 一致，否则游戏不认）。
-3. 放到游戏目录 `World of Warcraft\_forever_\Interface\AddOns\` 下。
-4. 完全退出游戏后重新进入。
+1. 到 [Releases](https://github.com/WatsonZ/Comix-Forever/releases/latest) 下载 **Comix-Forever-v*.zip**。
+2. 解压后把 `Comix` 文件夹放到游戏目录 `World of Warcraft\_forever_\Interface\AddOns\` 下，不用改名。
+3. 完全退出游戏后重新进入。
+
+> 如果用的是 **Code → Download ZIP**，解压出来的文件夹叫 `Comix-Forever-main`，必须**改名为 `Comix`** 游戏才认。
 
 ## 使用
 
@@ -64,6 +65,6 @@
 
 **Comix** for World of Warcraft “无限” (“Forever”, client folder `_forever_`, Interface 16001): comic images and silly sounds on crits, heals, kill streaks and deaths. Ported by 迪恩温彻斯特 from Comix 8.2.5 (Turaka, Nixxen). The Turtle WoW version lives in [WatsonZ/Comix](https://github.com/WatsonZ/Comix).
 
-Install: download the ZIP, **rename the folder to `Comix`**, put it in `_forever_\Interface\AddOns\`, restart the game. Open the options with the minimap button or `/comix`; the options are bilingual (`/comix lang zh|en|auto`).
+Install: download the zip from [Releases](https://github.com/WatsonZ/Comix-Forever/releases/latest), put the `Comix` folder in `_forever_\Interface\AddOns\`, restart the game. (A Code → Download ZIP must be renamed to `Comix`.) Open the options with the minimap button or `/comix`; the options are bilingual (`/comix lang zh|en|auto`).
 
 The client hides the combat log, health and damage amounts from addons, so crits, heal crits, crits taken, dodges and kill streaks are driven by `UNIT_COMBAT` and target-death checks; “Finish Him” fires when a mob flees in fear. Overkill, crit gap and the Finish Him health threshold are hidden on this client.
