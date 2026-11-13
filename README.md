@@ -5,6 +5,14 @@
 > 乌龟服（1.12 / TurtleWoW）版本在另一个仓库：[WatsonZ/Comix](https://github.com/WatsonZ/Comix)。
 > 本仓库基于 Turaka、Nixxen 维护的 Comix 8.2.5 版本迁移而来。
 
+## 截图
+
+![设置界面](docs/screenshots/options.png)
+
+| 爆击弹图 | 战斗特效 | 漫画效果 |
+|---|---|---|
+| ![爆击 OUTSTANDING](docs/screenshots/crit-outstanding.png) | ![YAAARRGGHH](docs/screenshots/effect-yarrgh.png) | ![Objection](docs/screenshots/effect-objection.png) |
+
 ## 安装
 
 1. 到 [Releases](https://github.com/WatsonZ/Comix-Forever/releases/latest) 下载 **Comix-Forever-v*.zip**。

@@ -1,0 +1,4 @@
+# Keep repo-only files out of release zips built with `git archive`
+docs/ export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
